@@ -1,0 +1,16 @@
+img{
+  width: 30%;
+  border: black;
+}
+
+div #aboutturtles{
+  display: none;
+}
+
+div #aboutsnakes{
+  display: none;
+}
+
+div #aboutinsects{
+  display: none;
+}
